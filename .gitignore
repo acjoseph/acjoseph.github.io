@@ -1,0 +1,6 @@
+# Specify filepatterns you want git to ignore.
+
+.sass-cache/*
+.jekyll-cache/*
+_site/*
+.DS_store
