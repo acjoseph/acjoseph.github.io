@@ -1,1 +1,9 @@
-theme: minima
+# theme: minima
+remote_theme: just-the-docs/just-the-docs
+# theme: just-the-docs
+search_enabled: false
+title: Alexandra Joseph
+heading_anchors: false
+
+plugins:
+  - jekyll-include-cache
