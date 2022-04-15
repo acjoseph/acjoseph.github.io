@@ -29,7 +29,7 @@ I was the software implementation lead. I used Python, OpenCV, and MediaPipe to 
 #### Skills Used
 
 * Python programming
-* Use of open-source libraries such as OpenCV and numpy
+* Use of open-source libraries such as OpenCV and NumPy
 * Research
 * Experiment design
 * Experiment analysis

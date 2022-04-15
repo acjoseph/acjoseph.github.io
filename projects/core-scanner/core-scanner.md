@@ -19,7 +19,7 @@ August 2021 to Present
 
 #### Description
 
-In this project I am tasked with the design, fabrication, and programming (software integration?) of a device to automate the 2D to 3D reconstruction of drill core boxes. The 2D to 3D reconstruction process consists of taking a number of pictures of the object from different angles, and then a software solution is used to create a high-quality 3D model of the object that can be viewed via computer or VR headset. Since taking photographs by hand is both time consuming and challenging due to considerations such as lighting, maintaining correct focus, etc, it was desired to automate the process.
+In this project I am tasked with the design, fabrication, and hardware-software interface of a device to automate the 2D to 3D reconstruction of drill core boxes. The 2D to 3D reconstruction process consists of taking a number of pictures of the object from different angles, and then a software solution is used to create a high-quality 3D model of the object that can be viewed via computer or VR headset. Since taking photographs by hand is both time consuming and challenging due to considerations such as lighting, maintaining correct focus, etc, it was desired to automate the process.
 
 I am fully in charge of the project.
 
